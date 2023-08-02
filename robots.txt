@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://tafsirhe-syaingoere.github.io/sitemap.xml
